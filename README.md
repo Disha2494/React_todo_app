@@ -7,10 +7,10 @@ flexibility to name this bucket according to his/her choice.
       a. All the existing buckets the user has created should be given as
           options, next time the user tries to create a new bucket.
 
-###Todo app using React and Django
-###Tech Stack: Django, React
+Todo app using React and Django
+Tech Stack: Django, React
 
-##To run the project following dependencies should be installed.
+# To run the project following dependencies should be installed.
 1: pip install pipenv
 2: pipenv install django
 3: pipenv install djangorestframework django-cors-headers
