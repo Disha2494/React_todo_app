@@ -1,7 +1,16 @@
 # React_todo_app
-Todo app using React and Django
-Tech Stack: Django, React
-To run the project following dependencies should be installed.
+A todo application where the following functionalities are present:
+1. User can create, delete and edit a to-do.
+2. They should also be able to mark a to-do done and vice-versa.
+3. They should be able to create a to-do under a bucket. The user has the
+flexibility to name this bucket according to his/her choice.
+      a. All the existing buckets the user has created should be given as
+          options, next time the user tries to create a new bucket.
+
+###Todo app using React and Django
+###Tech Stack: Django, React
+
+##To run the project following dependencies should be installed.
 1: pip install pipenv
 2: pipenv install django
 3: pipenv install djangorestframework django-cors-headers
@@ -13,8 +22,3 @@ The Frontend server will run on: http://localhost:3000/
 
 To start the frontend server use command: yarn start
 To start the backend server use command: python manage.py runserver
-
-The app will have three features listed as follows:
-1: the task can be added having three fields: title, description and category field(i.e label)
-2: the labels(buckets) can be created.
-3: all the created tasks will be displayed with a checkbox and a delete button.
