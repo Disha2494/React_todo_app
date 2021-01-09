@@ -6,8 +6,7 @@ A todo application where the following functionalities are present:
 flexibility to name this bucket according to his/her choice.
       a. All the existing buckets the user has created should be given as
           options, next time the user tries to create a new bucket.
-
-Todo app using React and Django
+          
 Tech Stack: Django, React
 
 ## To run the project following dependencies should be installed.
