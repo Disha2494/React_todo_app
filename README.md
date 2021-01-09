@@ -27,8 +27,14 @@ Tech Stack: Django, React
 5: yarn add bootstrap reactstrap
 ```
 
-The backend server will run on: http://127.0.0.1:8000
-The Frontend server will run on: http://localhost:3000/
+### The backend server will run on: http://127.0.0.1:8000
+### The Frontend server will run on: http://localhost:3000/
 
-To start the frontend server use command: yarn start
-To start the backend server use command: python manage.py runserver
+## To start the frontend server use command: 
+```
+yarn start
+```
+## To start the backend server use command:
+```
+python manage.py runserver
+```
