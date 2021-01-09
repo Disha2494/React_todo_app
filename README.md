@@ -10,12 +10,22 @@ flexibility to name this bucket according to his/her choice.
 Todo app using React and Django
 Tech Stack: Django, React
 
-# To run the project following dependencies should be installed.
+## To run the project following dependencies should be installed.
+```
 1: pip install pipenv
+```
+```
 2: pipenv install django
+```
+```
 3: pipenv install djangorestframework django-cors-headers
+```
+```
 4: npm install -g create-react-app
+```
+```
 5: yarn add bootstrap reactstrap
+```
 
 The backend server will run on: http://127.0.0.1:8000
 The Frontend server will run on: http://localhost:3000/
